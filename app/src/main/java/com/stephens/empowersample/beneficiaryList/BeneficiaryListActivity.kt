@@ -14,6 +14,10 @@ import com.stephens.empowersample.data.Beneficiary
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 
+/**
+ * Using an Activity per screen is slightly outdated, given more time a single-activity approach
+ * with fragments and/or compose screens could be better
+ */
 @AndroidEntryPoint
 class BeneficiaryListActivity : ComponentActivity() {
     private val viewModel: BeneficiaryViewModel by viewModels()
