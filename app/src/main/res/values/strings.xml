@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Empower Sample</string>
+    <string name="designation">Designation</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="type">Type</string>
+    <string name="address_text_format">%1$s\n %2$s\n %3$s, %4$s %5$s\n %6$s</string>
+    <string name="name_string_format">%1$s %2$s %3$s</string>
+    <string name="name">Name</string>
+    <string name="ssn">SSN</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+</resources>
